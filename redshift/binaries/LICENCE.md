@@ -11,3 +11,4 @@ source:
 - [![HACKMATCH redshift version](HACKMATCH_RS_VS.png)](https://www.reddit.com/r/exapunks/comments/9jfsxo/hackmatch_redshift_version/)
 - [![REDSHIFTER](REDSHIFTER.png)](https://www.reddit.com/r/exapunks/comments/9hivuc/redshifter_a_programming_puzzler_for_the_redshift/)
 - [![HACKMATCH redshift demake](HACKMATCH_RS_DM.png)](https://www.reddit.com/r/exapunks/comments/9jcin9/hackmatch_redshift_demake/)
+- [![VIDEOPOKER](VIDEOPOKER.png)](https://www.reddit.com/r/exapunks/comments/97dzc2/redshift_video_poker/)
